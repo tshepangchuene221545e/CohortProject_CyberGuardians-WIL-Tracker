@@ -10,6 +10,8 @@ The system allows students to clock in and out, upload supporting evidence, moni
 ### Software Development
 - Puleng Machete
 - Moribishane Ramonyai
+- Katlego Mojapelo
+- Kgomoeswana Lethabo 
  
 ### Cloud Computing
 - Kgotso Marapyana
