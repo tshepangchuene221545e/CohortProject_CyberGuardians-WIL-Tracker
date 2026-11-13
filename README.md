@@ -7,19 +7,10 @@ The Secure Student WIL Hours Tracker is a cloud-based solution designed to assis
 The system allows students to clock in and out, upload supporting evidence, monitor progress, and obtain mentor approval through a secure workflow.
  
 ## Team
-### Software Development
-- Puleng Machete
-- Moribishane Ramonyai
-- Katlego Mojapelo
-- Kgomoeswana Lethabo 
- 
+### Software Development 
 ### Cloud Computing
-- Kgotso Marapyana
- 
 ### Cybersecurity
-- Tshepang Chuene
-- Tshepo Letsoalo
- 
+
 ## Technologies
  
 - Python
