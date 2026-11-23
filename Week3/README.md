@@ -22,3 +22,8 @@ The Design Pack defines:
 - OWASP ASVS Security Controls
 - NIST Risk Management Framework (RMF) Alignment
 - Team Responsibilities
+
+
+### Process models, wireframes and data model
+
+The Week 3 software design deliverable is in `Process_Models_Wireframes_Data_Model.pdf`. The editable SVG diagrams are `process-model.svg`, `wireframes.svg`, and `data-model.svg`. These proposed designs cover the student submission and mentor review workflow, core student and mentor screens, and the relational records needed for entries, evidence, assignments, reviews, and audit events.
