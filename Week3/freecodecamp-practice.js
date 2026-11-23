@@ -1,4 +1,4 @@
-// Week 3 freeCodeCamp JavaScript practice (AI-assisted, with team permission).
+// Week 3 freeCodeCamp JavaScript practice.
 // Representative solutions from Debugging, Basic Data Structures, and Basic Algorithm Scripting.
 // Each exercise was checked against its freeCodeCamp tests.
 
